@@ -1,3 +1,5 @@
+Places I'd like to visit in my next visit to NYC. Suggestions are welcomed.
+
 ### Swiss Institute
 
 > Swiss Institute / CONTEMPORARY ART  
