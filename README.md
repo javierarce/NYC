@@ -23,6 +23,16 @@ http://sfpc.io
 
 ---
 
+
+### NYU Game Center
+
+> 2 Metrotech Center 8th Floor  
+> Brooklyn, NY 11201
+
+http://gamecenter.nyu.edu
+
+---
+
 From my previous visit:
 
 - Strand Bookstore
