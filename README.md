@@ -1,4 +1,4 @@
-Places I'd like to visit in my next visit to NYC. Suggestions are welcomed.
+Places I'd like to visit in my upcoming trip to NYC. Suggestions are welcomed.
 
 ### Swiss Institute
 
