@@ -12,6 +12,8 @@ Wednesday to Sunday, 12 – 6 PM
 
 http://www.swissinstitute.net
 
+---
+
 ### SFPC
 
 > 155 Bank St.  
