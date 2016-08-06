@@ -20,3 +20,19 @@ http://www.swissinstitute.net
 > New York, NY 10014
 
 http://sfpc.io
+
+---
+
+From my previous visit:
+
+- Strand Bookstore
+- McNally Jackson Books
+- IFC Center
+- Metropolitan Museum of Art
+- Miss Lily's & Melvin's Juice Box
+- UNIQLO
+- Museum of Modern Art (MoMA)
+- Openhouse Gallery
+- New York Botanical Garden
+- Ippudo
+- Minca
