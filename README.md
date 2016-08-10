@@ -41,7 +41,7 @@ http://sfpc.io
 
 ### NYU Game Center
 
-> 2 Metrotech Center 8th Floor  
+> 2 Metrotech Center 8th Floor   
 > Brooklyn, NY 11201
 
 http://gamecenter.nyu.edu
@@ -51,7 +51,7 @@ http://gamecenter.nyu.edu
 ### MoMa PS1
 
 > MoMA PS1 
-> 22-25 Jackson Avenue on 46th Avenue,
+> 22-25 Jackson Avenue on 46th Avenue,  
 > Long Island City, NY
 
 http://momaps1.org
@@ -59,8 +59,8 @@ http://momaps1.org
 ---
 
 ### Printed Matter 
-
-> 231 11th Avenue 
+ 
+> 231 11th Avenue  
 > New York, NY 10001
 
 https://www.printedmatter.org
