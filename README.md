@@ -1,5 +1,20 @@
 Places I'd like to visit in my upcoming trip to NYC. [Suggestions are welcomed](https://github.com/javierarce/NYC/issues)!
 
+## Events
+
+#### THE NY ART BOOK FAIR
+
+September 16-18, 2016
+Preview: Thursday, September 15, 6-9pm
+
+> MoMA PS1 
+> 22-25 Jackson Avenue on 46th Avenue,
+> Long Island City, NY
+
+http://nyartbookfair.com/conference/
+
+## Places
+
 ### Swiss Institute
 
 > Swiss Institute / CONTEMPORARY ART  
@@ -30,6 +45,25 @@ http://sfpc.io
 > Brooklyn, NY 11201
 
 http://gamecenter.nyu.edu
+
+---
+
+### MoMa PS1
+
+> MoMA PS1 
+> 22-25 Jackson Avenue on 46th Avenue,
+> Long Island City, NY
+
+http://momaps1.org
+
+---
+
+### Printed Matter 
+
+> 231 11th Avenue 
+> New York, NY 10001
+
+https://www.printedmatter.org
 
 ---
 
