@@ -1,6 +1,6 @@
 Places I'd like to visit in my upcoming trip to NYC. [Suggestions are welcomed](https://github.com/javierarce/NYC/issues)!
 
-## Events
+# Events
 
 #### THE NY ART BOOK FAIR
 
@@ -13,7 +13,19 @@ Places I'd like to visit in my upcoming trip to NYC. [Suggestions are welcomed](
 
 http://nyartbookfair.com/conference/
 
-## Places
+# Places
+
+## Museums & Galleries
+
+### New Museum
+
+> New Museum 
+> 235 Bowery 
+> New York, NY 10002 
+
+http://www.newmuseum.org
+
+---
 
 ### Swiss Institute
 
@@ -26,15 +38,6 @@ http://nyartbookfair.com/conference/
 Wednesday to Sunday, 12 – 6 PM
 
 http://www.swissinstitute.net
-
----
-
-### SFPC
-
-> 155 Bank St.  
-> New York, NY 10014
-
-http://sfpc.io
 
 ---
 
@@ -55,6 +58,15 @@ http://gamecenter.nyu.edu
 > Long Island City, NY
 
 http://momaps1.org
+
+## Other
+
+### SFPC
+
+> 155 Bank St.  
+> New York, NY 10014
+
+http://sfpc.io
 
 ---
 
