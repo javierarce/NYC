@@ -2,7 +2,7 @@ I'll be spending September in NYC. Here are some of the places I'd like to visit
 
 [Suggestions are welcomed](https://github.com/javierarce/NYC/issues) or ([ping me if you want to hang out](http://twitter.com/javier)).
 
-# Events
+# :circus_tent: Events
 
 #### THE SKETCHBOOK PROJECT
 
@@ -23,7 +23,7 @@ https://www.facebook.com/events/1100120236725498/
 
 http://nyartbookfair.com/conference/
 
-# Places
+# :round_pushpin: Places
 
 ## Museums & Galleries
 
