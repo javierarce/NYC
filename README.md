@@ -1,6 +1,6 @@
 I'll be spending September in NYC. Here are some of the places I'd like to visit.  
 
-[Suggestions are welcomed](https://github.com/javierarce/NYC/issues). Ping me if you want to hang out](http://twitter.com/javier).
+[Suggestions are welcomed](https://github.com/javierarce/NYC/issues). [Ping me](http://twitter.com/javier) if you want to hang out].
 
 # :circus_tent: Events
 
