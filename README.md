@@ -6,7 +6,7 @@ I'll be spending September in NYC. Here are some of the places I'd like to visit
 
 #### THE SKETCHBOOK PROJECT
 
-- Friday, September 9 at 6:30 PM - 8:30 PM
+Friday, September 9 at 6:30 PM - 8:30 PM
 
 > Brooklyn Art Library  
 > 28 Frost St.  
@@ -16,8 +16,8 @@ https://www.facebook.com/events/1100120236725498/
 
 #### THE NY ART BOOK FAIR
 
-- September 16-18, 2016  
-- Preview: Thursday, September 15, 6-9pm
+September 16-18, 2016  
+Preview: Thursday, September 15, 6-9pm
 
 > MoMA PS1  
 > 22-25 Jackson Avenue on 46th Avenue  
@@ -33,8 +33,8 @@ http://nyartbookfair.com/conference/
 
 ### New Museum
 
-> New Museum 
-> 235 Bowery 
+> New Museum  
+> 235 Bowery  
 > New York, NY 10002 
 
 http://www.newmuseum.org
