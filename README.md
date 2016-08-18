@@ -2,6 +2,14 @@ Places I'd like to visit in my upcoming trip to NYC. [Suggestions are welcomed](
 
 # Events
 
+#### THE SKETCHBOOK PROJECT
+
+- Friday, September 9 at 6:30 PM - 8:30 PM
+
+> 28 Frost St, Brooklyn, New York 11211
+
+https://www.facebook.com/events/1100120236725498/
+
 #### THE NY ART BOOK FAIR
 
 - September 16-18, 2016  
