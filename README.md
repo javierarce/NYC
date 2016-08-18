@@ -1,4 +1,4 @@
-Places I'd like to visit in my upcoming trip to NYC. [Suggestions are welcomed](https://github.com/javierarce/NYC/issues)!
+I'll be spending September in NYC. Here are some of the places I'd like to visit. [Suggestions are welcomed](https://github.com/javierarce/NYC/issues)!
 
 # Events
 
@@ -94,8 +94,7 @@ From my previous visit:
 - IFC Center
 - Metropolitan Museum of Art
 - Miss Lily's & Melvin's Juice Box
-- UNIQLO
-- Museum of Modern Art (MoMA)
+- 826NYC & The Brooklyn Superhero Supply Co.
 - Openhouse Gallery
 - New York Botanical Garden
 - Ippudo
