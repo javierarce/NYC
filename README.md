@@ -8,7 +8,9 @@ I'll be spending September in NYC. Here are some of the places I'd like to visit
 
 - Friday, September 9 at 6:30 PM - 8:30 PM
 
-> 28 Frost St, Brooklyn, New York 11211
+> Brooklyn Art Library
+> 28 Frost St
+> Brooklyn, New York 11211
 
 https://www.facebook.com/events/1100120236725498/
 
