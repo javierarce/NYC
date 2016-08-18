@@ -23,6 +23,8 @@ https://www.facebook.com/events/1100120236725498/
 
 http://nyartbookfair.com/conference/
 
+---
+
 # :round_pushpin: Places
 
 ## Museums & Galleries
@@ -49,8 +51,6 @@ Wednesday to Sunday, 12 – 6 PM
 
 http://www.swissinstitute.net
 
----
-
 
 ### NYU Game Center
 
@@ -59,7 +59,6 @@ http://www.swissinstitute.net
 
 http://gamecenter.nyu.edu
 
----
 
 ### MoMa PS1
 
@@ -69,6 +68,8 @@ http://gamecenter.nyu.edu
 
 http://momaps1.org
 
+---
+
 ## Other
 
 ### SFPC
@@ -77,8 +78,6 @@ http://momaps1.org
 > New York, NY 10014
 
 http://sfpc.io
-
----
 
 ### Printed Matter 
  
