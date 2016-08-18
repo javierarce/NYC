@@ -71,7 +71,7 @@ http://momaps1.org
 
 ### Seagram
 
-> 375 Park Ave 10152 
+> 375 Park Ave 10152  
 > New York, NY  
 
 http://www.archdaily.com/59412/seagram-building-mies-van-der-rohe/
