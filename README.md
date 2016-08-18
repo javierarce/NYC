@@ -69,6 +69,26 @@ http://momaps1.org
 
 ---
 
+## :pizza: Food
+
+- Miss Lily's & Melvin's Juice Box
+- Ippudo
+- Minca
+- Momofuku
+
+---
+
+## :gem: Shops
+
+### Printed Matter 
+ 
+> 231 11th Avenue  
+> New York, NY 10001
+
+https://www.printedmatter.org
+
+---
+
 ## Other
 
 ### SFPC
@@ -77,13 +97,6 @@ http://momaps1.org
 > New York, NY 10014
 
 http://sfpc.io
-
-### Printed Matter 
- 
-> 231 11th Avenue  
-> New York, NY 10001
-
-https://www.printedmatter.org
 
 ---
 
