@@ -1,4 +1,6 @@
-I'll be spending September in NYC. Here are some of the places I'd like to visit. [Suggestions are welcomed](https://github.com/javierarce/NYC/issues)!
+I'll be spending September in NYC. Here are some of the places I'd like to visit.  
+
+[Suggestions are welcomed](https://github.com/javierarce/NYC/issues) or ([ping me if you want to hang out](mailto:javierarce@gmail.com)).
 
 # Events
 
