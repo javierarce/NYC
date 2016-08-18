@@ -37,7 +37,6 @@ http://nyartbookfair.com/conference/
 
 http://www.newmuseum.org
 
----
 
 ### Swiss Institute
 
