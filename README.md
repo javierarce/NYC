@@ -102,6 +102,16 @@ http://sfpc.io
 
 ---
 
+To add:
+
+- [Nowadays.nyc](http://nowadays.nyc)
+- Chelsea Market
+- Whitney Museum 
+- Highline Park
+- AMNH
+- [Pizzas](https://munchies.vice.com/en/videos/the-pizza-show-brooklyn)
+- Forbidden Planet 
+
 From my previous visit:
 
 - Strand Bookstore
