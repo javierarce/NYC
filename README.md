@@ -116,13 +116,23 @@ https://www.publicartfund.org
 
 To add:
 
+- Cocoron Soba
+- Grand Central Terminal
+- Sakagura
+- Lady M
+- Basta Pasta
+- Van Leeuwen
 - [Nowadays.nyc](http://nowadays.nyc)
 - Chelsea Market
+- Fika
+- Vitsœ
+- The Guggenheim
+- MoMa
 - Whitney Museum 
 - Highline Park
 - AMNH
 - [Pizzas](https://munchies.vice.com/en/videos/the-pizza-show-brooklyn)
-- Forbidden Planet 
+- Forbidden Planet
 
 From my previous visit:
 
@@ -133,6 +143,7 @@ From my previous visit:
 - Miss Lily's & Melvin's Juice Box
 - 826NYC & The Brooklyn Superhero Supply Co.
 - Openhouse Gallery
+- La Colombe
 - New York Botanical Garden
 - Ippudo
 - Minca
