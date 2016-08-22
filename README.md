@@ -116,8 +116,10 @@ https://www.publicartfund.org
 
 To add:
 
-- Cocoron Soba
+- http://www.russanddaughterscafe.com
+- http://www.untitledatthewhitney.com
 - Grand Central Terminal
+- Cocoron Soba
 - Sakagura
 - Lady M
 - Basta Pasta
