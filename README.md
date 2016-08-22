@@ -132,9 +132,19 @@ To add:
 - MoMa
 - Whitney Museum 
 - Highline Park
-- AMNH
 - [Pizzas](https://munchies.vice.com/en/videos/the-pizza-show-brooklyn)
 - Forbidden Planet
+- American Museum of Natural History http://www.amnh.org/
+- ICP http://www.icp.org/museum
+- MET http://www.metmuseum.org
+- Chelsea galleries 
+- Leica gallery http://us.leica-camera.com/culture/galleries/gallery_new_york/
+- Brooklyn Museum http://www.brooklynmuseum.org/
+- Dia Beacon http://www.diacenter.org/sites/main/beacon
+- St. Mark's bookshop http://www.stmarksbookshop.com
+- http://kioskkiosk.com
+- http://www.pearlpaint.com
+- B&H http://www.bhphotovideo.com
 
 From my previous visit:
 
