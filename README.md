@@ -81,7 +81,9 @@ http://www.archdaily.com/59412/seagram-building-mies-van-der-rohe/
 - The Guggenheim  
 - MoMa  
 - Whitney Museum 
-- AMNH
+- AMNH  
+- [Public Art Fund](https://www.publicartfund.org)  
+- Openhouse Gallery
 
 ---
 
@@ -94,6 +96,7 @@ http://www.archdaily.com/59412/seagram-building-mies-van-der-rohe/
 ## :coffee: Cofee
 
 - La Colombe
+- [Russ & Daughters Cafe](http://www.russanddaughterscafe.com)
 
 ---
 
@@ -135,17 +138,13 @@ https://www.printedmatter.org
 
 http://sfpc.io
 
-
-### Public Art Fund
-
-https://www.publicartfund.org
-
 ---
 
 To add:
 
-- Cocoron Soba
+- http://www.untitledatthewhitney.com
 - Grand Central Terminal
+- Cocoron Soba
 - Sakagura
 - Lady M
 - Basta Pasta
@@ -157,10 +156,10 @@ To add:
 - IFC Center
 - Miss Lily's & Melvin's Juice Box
 - 826NYC & The Brooklyn Superhero Supply Co.
-- Openhouse Gallery
 - Ippudo
 - Minca
 
 ### Resources
-- https://bondstreet.com/fornewyork/posts
+
+- [For New York](https://bondstreet.com/fornewyork/posts)
 - [Pizzas](https://munchies.vice.com/en/videos/the-pizza-show-brooklyn)
