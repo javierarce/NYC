@@ -77,13 +77,19 @@ http://momaps1.org
 http://www.archdaily.com/59412/seagram-building-mies-van-der-rohe/
 
 
-- Metropolitan Museum of Art  
+- [The Met](http://www.metmuseum.org)
 - The Guggenheim  
 - MoMa  
 - Whitney Museum 
-- AMNH  
+- [American Museum of Natural History](http://www.amnh.org)
 - [Public Art Fund](https://www.publicartfund.org)  
+- [International Center of Photography](http://www.icp.org/museum)
 - Openhouse Gallery
+- Cooper Hewitt
+- [Leica gallery](http://us.leica-camera.com/culture/galleries/gallery_new_york)
+- [Brooklyn Museum](http://www.brooklynmuseum.org)
+- [Dia Beacon](http://www.diacenter.org/sites/main/beacon)
+- Chelsea galleries 
 
 ---
 
@@ -106,6 +112,7 @@ http://www.archdaily.com/59412/seagram-building-mies-van-der-rohe/
 - McNally Jackson Books
 - Spoonbill & Sugartown
 - Mast Books
+- St. Mark's bookshop http://www.stmarksbookshop.com
 
 ---
 
@@ -158,6 +165,8 @@ To add:
 - 826NYC & The Brooklyn Superhero Supply Co.
 - Ippudo
 - Minca
+- http://www.pearlpaint.com
+- B&H http://www.bhphotovideo.com
 
 ### Resources
 
