@@ -76,6 +76,34 @@ http://momaps1.org
 
 http://www.archdaily.com/59412/seagram-building-mies-van-der-rohe/
 
+
+- Metropolitan Museum of Art  
+- The Guggenheim  
+- MoMa  
+- Whitney Museum 
+- AMNH
+
+---
+
+## :herb: Parks
+
+- Highline Park
+- New York Botanical Garden
+- [Nowadays.nyc](http://nowadays.nyc)
+
+## :coffee: Cofee
+
+- La Colombe
+
+---
+
+## :books: Bookshops
+
+- Strand Bookstore
+- McNally Jackson Books
+- Spoonbill & Sugartown
+- Mast Books
+
 ---
 
 ## :pizza: Food
@@ -122,28 +150,17 @@ To add:
 - Lady M
 - Basta Pasta
 - Van Leeuwen
-- [Nowadays.nyc](http://nowadays.nyc)
 - Chelsea Market
 - Fika
 - Vitsœ
-- The Guggenheim
-- MoMa
-- Whitney Museum 
-- Highline Park
-- AMNH
-- [Pizzas](https://munchies.vice.com/en/videos/the-pizza-show-brooklyn)
 - Forbidden Planet
-
-From my previous visit:
-
-- Strand Bookstore
-- McNally Jackson Books
 - IFC Center
-- Metropolitan Museum of Art
 - Miss Lily's & Melvin's Juice Box
 - 826NYC & The Brooklyn Superhero Supply Co.
 - Openhouse Gallery
-- La Colombe
-- New York Botanical Garden
 - Ippudo
 - Minca
+
+### Resources
+- https://bondstreet.com/fornewyork/posts
+- [Pizzas](https://munchies.vice.com/en/videos/the-pizza-show-brooklyn)
