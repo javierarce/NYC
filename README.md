@@ -1,6 +1,8 @@
 I'll be spending September in NYC. Here are some of the places I'd like to visit.  
 
-[Suggestions are welcomed](nyc.javier.is)
+If you have any cool suggestion, you can add them [here](nyc.javier.is)
+
+![nyc](nyc.gif "nyc.javier.is")
 
 [Ping me](http://twitter.com/javier) if you want to hang out.
 
