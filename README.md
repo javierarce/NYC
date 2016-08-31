@@ -1,10 +1,10 @@
 I'll be spending September in NYC. Here are some of the places I'd like to visit.  
 
-If you have any cool suggestion, you can add them [here](nyc.javier.is)
+If you have any cool suggestion, you can add them here: [nyc.javier.is](nyc.javier.is).
 
 ![nyc](nyc.gif "nyc.javier.is")
 
-[Ping me](http://twitter.com/javier) if you want to hang out.
+Also: [ping me](http://twitter.com/javier) if you want to hang out.
 
 # :circus_tent: Events
 
