@@ -171,6 +171,7 @@ To add:
 - Minca
 - http://www.pearlpaint.com
 - B&H http://www.bhphotovideo.com
+- http://whitney.org/Exhibitions/StuartDavis
 
 ### Resources
 
